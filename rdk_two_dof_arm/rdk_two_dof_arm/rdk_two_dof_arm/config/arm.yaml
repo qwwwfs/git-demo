@@ -1,7 +1,0 @@
-# Simulation examples only; NOT measured hardware limits.
-arm_controller:
-  ros__parameters:
-    lower: -1.57
-    upper: 1.57
-    speed: 0.5
-    rate: 50.0
